@@ -50,7 +50,7 @@
   "type": "module",
   "dependencies": {
     "@spruceid/rebase-client": "0.16.1",
-    "@spruceid/ssx": "2.0.0",
+    "@spruceid/ssx": "2.1.0",
     "@wagmi/core": "^0.10.10",
     "@web3modal/ethereum": "2.3.7",
     "@web3modal/html": "2.3.7",

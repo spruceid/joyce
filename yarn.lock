@@ -1055,10 +1055,10 @@
   resolved "https://registry.npmjs.org/@spruceid/ssx-sdk-wasm/-/ssx-sdk-wasm-0.3.0.tgz#baf7d6170e9add0e5fc8aa5c7995891703bb272c"
   integrity sha512-uuLVoajjgMahhv+i5xPHz/v6I1TMycDW5zmIOE3F29+amDt2q+C14yjFOlr0j625Zm4qiB3O4QbxZEqWKrQ5Hg==
 
-"@spruceid/ssx@2.0.0":
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/@spruceid/ssx/-/ssx-2.0.0.tgz#4861bd9c3134329533b5658b00f4609abac0750a"
-  integrity sha512-23DQxpYH3TKHKFw5xvYCJgL+BUjkvIzgBW9GOEz7SWBEjNPl+1yVxevHBtmba/ui7FHWqrKFacLqGcncrMZyyw==
+"@spruceid/ssx@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@spruceid/ssx/-/ssx-2.1.0.tgz#d6835a60e0dbe39483c2e079158f010df062b452"
+  integrity sha512-r5siD/dZk6mEVNoBiVfjOL7G5QWYI5ysITB4hTagJbGqbH4MPqQ6ET13uWJRcFDxnNoxgvVYzz+KPgOVN6ppeg==
   dependencies:
     "@metamask/detect-provider" "^1.2.0"
     "@spruceid/ssx-core" "2.0.0"
